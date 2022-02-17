@@ -7,7 +7,7 @@
 - I graduated a Full Stack Coding Bootcamp through the University of Denver and am currently looking for full time employment as a Junior Software Developer/Engineer
   <br/>
   ***
-  ![](https://komarev.com/ghpvc/?username=mattgrogandev&color=buleviolet)
+  ![](https://komarev.com/ghpvc/?username=mattgrogandev&color=blueviolet)
 
 ### Connect with me:
 
