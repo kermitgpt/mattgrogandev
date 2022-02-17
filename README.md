@@ -1,6 +1,6 @@
 # mattgrogan.dev <a href="https://mattgrogan.dev/" target="_blank"><img align="center" src='./assets/jpeg/Robart.jpeg' target="_blank" alt="web" width="28px"/></a>
 
-## Hi, I'm Matt.
+## Hi, I'm Matt 👋
 
 - I love learning new things and building cool apps.
 - I'm a software engineer based in Tucson, AZ
@@ -29,7 +29,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target='none' style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="./assets/png/gh.png"  target='none' style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target='none' style="padding-right:10px;" />
-
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target='none' style="padding-right:10px;" />
 
 <br />
