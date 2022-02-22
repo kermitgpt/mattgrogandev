@@ -18,18 +18,22 @@
 
 ---
 
-### Languages and Tools:
+### Technologies:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./assets/png/gh.png"  target='none' style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target='none' style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target='none' style="padding-right:10px;" />
+![React](https://img.shields.io/badge/React-000000.svg?logo=react&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-561a1a.svg?logo=javascript&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-545454.svg?logo=node.js&style=flat)
+![Express](https://img.shields.io/badge/Express-7d7d7d.svg?logo=express&style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-311c87.svg?logo=graphql&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-0e0f11.svg?logo=mysql&style=flat)
+![Sequelize](https://img.shields.io/badge/Sequelize-663d8f.svg?logo=sequelize&style=flat)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-fff.svg?logo=mongodb&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-347fb2.svg?logo=tailwindcss&style=flat)
+![Handlebars.js](https://img.shields.io/badge/Handlebars.js-518c08.svg?logo=handlebarsdotjs&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-f9de95.svg?logo=html5&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-2572b6.svg?logo=css3&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-d5c7f0.svg?logo=bootstrap&style=flat)
 
 <br />
 <br />
